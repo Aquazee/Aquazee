@@ -10,9 +10,9 @@
 - Have good understanding on implementation of architecture.
 
 **Used Tech Stacks/Tools**
-Languages : Javsacript, Python, C#
-Frameworks : Asp.Net, ReactJS, React-Native, Angular, Flask
-Databases : MongoDB, MsSql, Postgres, CockroachDb
-Cloud Services : Azure, Aws, GCP etc
-Tools : RabbitMQ, Rancher, Keyvaults, Chronicle, 
-3rd Party integrations : OpenCV, Payment Gateways, Firebase, Deep Links, Bonjour, Printing Solutions
+- Languages : Javsacript, Python, C#
+- Frameworks : Asp.Net, ReactJS, React-Native, Angular, Flask
+- Databases : MongoDB, MsSql, Postgres, CockroachDb
+- Cloud Services : Azure, Aws, GCP etc
+- Tools : RabbitMQ, Rancher, Keyvaults, Chronicle, 
+- 3rd Party integrations : OpenCV, Payment Gateways, Firebase, Deep Links, Bonjour, Printing Solutions
