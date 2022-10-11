@@ -4,10 +4,12 @@
 - 💞️ I’m looking to collaborate on ML & AI
 - 📫 You can reach me at sudip.test12@gmail.com
 
-I've worked on various technologies. 
-Capable of creating Front End, Back End & Mobile Apps(Android & iOS).
-Have good understanding on implementation of architecture.
+**Experience**
+- I've worked on various technologies. 
+- Capable of creating Front End, Back End & Mobile Apps(Android & iOS).
+- Have good understanding on implementation of architecture.
 
+**Used Tech Stacks/Tools**
 Languages : Javsacript, Python, C#
 Frameworks : Asp.Net, ReactJS, React-Native, Angular, Flask
 Databases : MongoDB, MsSql, Postgres, CockroachDb
