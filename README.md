@@ -23,7 +23,8 @@ Sample Projects
 1. Vertexfunds - https://github.com/Aquazee/Vertexfunds
  - React-Native, Hooks, Axios
 
-1. AcademyTrackhttps://github.com/Aquazee/AcademyTrack
+1. AcademyTrack - https://github.com/Aquazee/AcademyTrack
+ - React-Native
 
 **Backend**
 1. ms-commerce - https://github.com/Aquazee/ms-commerce
