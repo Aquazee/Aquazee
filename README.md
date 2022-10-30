@@ -28,7 +28,9 @@ Sample Projects
 
 **Backend**
 1. ms-commerce - https://github.com/Aquazee/ms-commerce
- - Typescript, Node.js, ExpressJs, MongoDB
+ - Typescript, Node.js, ExpressJs, MongoDB, RabbitMQ, Elasticsearch, Nunjucks
+ - Authenticaton - 2FA, Email, JWT, Socal Login Auth - FB
+ - Email Integration - Gmail SMTP
 
 **Frontend**
 1. Tesla_Web - https://github.com/Aquazee/Tesla_Web
