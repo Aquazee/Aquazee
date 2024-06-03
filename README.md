@@ -10,18 +10,18 @@
 - Have good understanding on implementation of architecture.
 
 **Used Tech Stacks/Tools**
-- Languages : Javsacript, Python, C#
-- Frameworks : Asp.Net, ReactJS, React-Native, Angular, Flask
-- Databases : MongoDB, MsSql, Postgres, CockroachDb
-- Cloud Services : Azure, Aws, GCP etc
+- Languages : Typescript, Javsacript, Python, C#
+- Frameworks : Express.js, ReactJS, React-Native, Angular, Flask, Asp.Net, 
+- Databases : MongoDB, MsSql, PostgreSQL, CockroachDB
+- Cloud Services : Azure, Aws, GCP.
 - Tools : RabbitMQ, Rancher, Keyvaults, Chronicle, 
 - 3rd Party integrations : OpenCV, Payment Gateways, Firebase, Deep Links, Bonjour, Printing Solutions
 
 Sample Projects
 
 **Mobile App**
-1. Vertexfunds - https://github.com/Aquazee/Vertexfunds
- - React-Native, Hooks, Axios
+1. Vertexfunds - https://github.com/Aquazee/Vertexfunds 
+ - Technologies: React-Native, Hooks, Axios
 
 1. AcademyTrack - https://github.com/Aquazee/AcademyTrack
  - React-Native
@@ -34,4 +34,5 @@ Sample Projects
 
 **Frontend**
 1. Tesla_Web - https://github.com/Aquazee/Tesla_Web
- - React.JS, Hooks, etc
+ - Description: Tesla Web is an ecommerce website, It was created using html, css, reactjs. I didn't use any 3rd party UI library other than simple bootstrap framework to keep it simple. 
+ - React.JS, Hooks, bootstrap, etc.
