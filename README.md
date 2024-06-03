@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ML & AI
 - 📫 You can reach me at sudip.test12@gmail.com
 
-**Experience**
-- I've worked on various technologies. 
+**Summary**
+- Proficient in technologies such as Node.js, Python, React, React-Native, SQL, NoSQL, AWS, and Azure Cloud Services.
+- Extensive experience with Microservices, Monolithic Applications, Hybrid Mobile Apps, and SaaS-based applications.
 - Capable of creating Front End, Back End & Mobile Apps(Android & iOS).
 - Have good understanding on implementation of architecture.
 
