@@ -11,11 +11,11 @@
 - Have good understanding on implementation of architecture.
 
 **Used Tech Stacks/Tools**
-- Languages : Typescript, Javsacript, Python, C#
-- Frameworks : Express.js, ReactJS, React-Native, Angular, Flask, Asp.Net, 
+- Languages : Java, Typescript, Javsacript, Python, C#
+- Frameworks : Spring Boot, Express.js, ReactJS, React-Native, Angular, Flask, Asp.Net, 
 - Databases : MongoDB, MsSql, PostgreSQL, CockroachDB
 - Cloud Services : Azure, Aws, GCP.
-- Tools : RabbitMQ, Rancher, Keyvaults, Chronicle, 
+- Tools : Kafka, RabbitMQ, Rancher, Keyvaults, Chronicle, ELK Stack, Jenkins, Docker, Kubernetes
 - 3rd Party integrations : OpenCV, Payment Gateways, Firebase, Deep Links, Bonjour, Printing Solutions
 
 Sample Projects
